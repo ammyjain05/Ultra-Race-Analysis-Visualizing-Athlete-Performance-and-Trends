@@ -9,7 +9,7 @@ The data used in this project is sourced from the Kaggle dataset titled "The Big
 The dataset can be accessed [here](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633).
 
 ## Project Structure
-- `analysis.ipynb`: Jupyter Notebook containing the main code for data analysis and visualization.
+- `Exploratory Data Analysis With Python Pandas.ipynb`: Jupyter Notebook containing the main code for data analysis and visualization.
 - `TWO_CENTURIES_OF_UM_RACES.csv`: Raw dataset file downloaded from Kaggle.
 
 ## Dependencies
